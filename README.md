@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark&hide_border=true)](https://git.io/streak-stats)
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
